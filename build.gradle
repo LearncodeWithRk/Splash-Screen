@@ -1,0 +1,5 @@
+ //lottie
+    implementation 'com.airbnb.android:lottie:2.2.5'
+
+    //yoyo library
+    implementation 'com.daimajia.androidanimations:library:2.3@aar'
